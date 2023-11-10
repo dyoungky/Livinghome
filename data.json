@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "SIENA",
+      "brand": "Ilva",
+      "imgUrl": "http://127.0.0.1:5500/Living%20home/images//main/products/product1.webp",
+      "discountRate": "41",
+      "price": "13999",
+      "shipping": "Free shipping",
+      "rate": "4.5"
+    },
+    {
+      "id": "2",
+      "title": "Panthella Mini Orange",
+      "brand": "Louis Poulsen",
+      "imgUrl": "http://127.0.0.1:5500/Living%20home/images//main/products/lamp3.webp",
+      "discountRate": "20",
+      "price": "5200",
+      "shipping": "Free shipping",
+      "rate": "4.2"
+    },
+    {
+      "id": "3",
+      "title": "RANGOON",
+      "brand": "Ilva",
+      "imgUrl": "http://127.0.0.1:5500/Living%20home/images//main/products/product1.webp",
+      "discountRate": "15",
+      "price": "7988",
+      "shipping": "Free shipping",
+      "rate": "4.3"
+    },
+    {
+      "id": "4",
+      "title": "Copenhagen Lampe",
+      "brand": "&TRADITION",
+      "imgUrl": "http://127.0.0.1:5500/Living%20home/images//main/products/lamp2.jpeg",
+      "discountRate": "20",
+      "price": "6699",
+      "shipping": "Free shipping",
+      "rate": "4.5"
+    },
+    {
+      "id": "5",
+      "title": "Haller Credenza O2",
+      "brand": "usm",
+      "imgUrl": "http://127.0.0.1:5500/Living%20home/images//main/products/storage.webp",
+      "discountRate": "40",
+      "price": "13999",
+      "shipping": "Free shipping",
+      "rate": "4.5"
+    },
+    {
+      "id": "6",
+      "title": "RICHMOND",
+      "brand": "Ilva",
+      "imgUrl": "http://127.0.0.1:5500/Living%20home/images//main/products/storage2.webp",
+      "discountRate": "30",
+      "price": "6999",
+      "shipping": "Free shipping",
+      "rate": "4.0"
+    },
+    {
+      "id": "7",
+      "title": "Wishbone chair",
+      "brand": "J. Wegner",
+      "imgUrl": "http://127.0.0.1:5500/Living%20home/images//main/products/chair.png",
+      "discountRate": "10",
+      "price": "2895",
+      "shipping": "Free shipping",
+      "rate": "4.2"
+    },
+    {
+      "id": "8",
+      "title": "Patio Sofa Table",
+      "brand": "SACKit",
+      "imgUrl": "http://127.0.0.1:5500/Living%20home/images//main/products/chair.png",
+      "discountRate": "15",
+      "price": "2625",
+      "shipping": "Free shipping",
+      "rate": "4.3"
+    }
+  ]
+}
