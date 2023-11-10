@@ -16,3 +16,15 @@ Living home(Change the subject of my project to a shopping mall called 'Living h
 • Using Google fonts
 • Using Splide for the main carousel images.
 • Using Bootstrap to build a layout for product images.
+
+
+🔳 Week 3
+Living home
+
+• JS Array filter and sort for the products.
+
+
+🔳 Week 4
+Living home
+
+• Host my project on GitHub Pages.
