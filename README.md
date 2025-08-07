@@ -30,7 +30,6 @@ This personal project was developed using HTML, CSS, and JavaScript. Product dat
 
 ```bash
 git clone https://github.com/dyoungky/Livinghome.git
-cd ITU-Name
 npm install
 npm start
 ```
