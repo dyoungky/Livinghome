@@ -6,7 +6,7 @@ This personal project was developed using HTML, CSS, and JavaScript. Product dat
 
 ### ﹅ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, Bootstrap
 - **Graphic design**: Photoshop
 
 <br>
